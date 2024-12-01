@@ -16,5 +16,5 @@
     },
     "jsx": "react-jsx"
   },
-  "include": ["src/**/*", "webpack.*.ts", "*.config.ts"]
+  "include": ["src/**/*", "webpack.*.ts", "*.config.ts", "eslint.config.mjs"]
 }
